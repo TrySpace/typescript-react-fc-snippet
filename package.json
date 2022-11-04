@@ -12,7 +12,7 @@
         "function component"
     ],
     "license": "MIT",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/MatchaDog/typescript-react-fc-snippet.git"
