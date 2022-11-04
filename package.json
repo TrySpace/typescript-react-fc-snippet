@@ -1,7 +1,7 @@
 {
     "name": "typescript-react-fc-snippet",
     "displayName": "Typescript-React-FC-Snippet",
-    "description": "Snippet for function component in react by typescript",
+    "description": "Snippet for function component in react by typescript (with fixed typos)",
     "publisher": "TrySpace",
     "keywords": [
         "snippets",
