@@ -2,3 +2,4 @@
 .vscode-test/**
 vsc-extension-quickstart.md
 yarn.lock
+/node_modules
