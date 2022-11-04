@@ -1,6 +1,6 @@
 {
-    "name": "typescript-react-fc-snippet",
-    "displayName": "Typescript-React-FC-Snippet",
+    "name": "typescript-react-fc-snippets",
+    "displayName": "Typescript-React-FC-Snippets",
     "description": "Snippet for function component in react by typescript (with fixed typos)",
     "publisher": "TrySpace",
     "keywords": [
@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MatchaDog/typescript-react-fc-snippet.git"
+        "url": "https://github.com/TrySpace/typescript-react-fc-snippets"
     },
     "engines": {
         "vscode": "^1.48.0"
